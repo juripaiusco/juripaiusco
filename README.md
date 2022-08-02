@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrjuri
+- 👋 Hi, I’m @juripaiusco
 - 👀 I’m interested in web and software
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on I don't know
